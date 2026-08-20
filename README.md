@@ -54,8 +54,6 @@ cloud de Azure y aplicando una arquitectura moderna de procesamiento
 y almacenamiento de datos.
 
 # 📊 Proyecto Data Engineering: Dashboard FibraMax
-![Dashboard FibraMax](captura_dashboard.png)
-![Dashboard FibraMax](dashboard_final.png)
 
 ## 📌 Descripción General
 Este proyecto consiste en la extracción, transformación y visualización de datos para la empresa de telecomunicaciones FibraMax.
@@ -77,8 +75,8 @@ transformación de fechas y combinación de archivos) y Power BI para la constru
 - **Resultados de Visitas:** Efectividad de los técnicos en campo (Resuelto, Pendiente, Cliente ausente).
 
 ## 🖼️ Vista Previa del Dashboard
-*(Aquí pegas el nombre de tu captura de pantalla, ej: `![Dashboard](dashboard_vista_prevista.png)`)*
-
+![Dashboard FibraMax](captura_dashboard.png)
+![Dashboard FibraMax](dashboard_final.png)
 ## 🚀 Cómo ver el informe
 1. Descargar el archivo `Dashboard_FibraMax.pbix` desde este repositorio.
 2. Abrirlo con **Power BI Desktop** (Es necesario tener el programa instalado).
