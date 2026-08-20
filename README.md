@@ -20,6 +20,7 @@ Silver
 Gold
         ↓
 Power BI
+
 ![Dashboard FibraMax](arquitectura.png)
 
 ## 🛠️ Tecnologías
