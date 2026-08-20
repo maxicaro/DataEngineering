@@ -54,6 +54,7 @@ cloud de Azure y aplicando una arquitectura moderna de procesamiento
 y almacenamiento de datos.
 
 # 📊 Proyecto Data Engineering: Dashboard FibraMax
+![Dashboard FibraMax](captura_dashboard.png)
 ![Dashboard FibraMax](dashboard_final.png)
 
 ## 📌 Descripción General
