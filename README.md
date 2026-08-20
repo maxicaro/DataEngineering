@@ -54,6 +54,7 @@ cloud de Azure y aplicando una arquitectura moderna de procesamiento
 y almacenamiento de datos.
 
 # 📊 Proyecto Data Engineering: Dashboard FibraMax
+![Dashboard FibraMax](dashboard_final.png)
 
 ## 📌 Descripción General
 Este proyecto consiste en la extracción, transformación y visualización de datos para la empresa de telecomunicaciones FibraMax.
